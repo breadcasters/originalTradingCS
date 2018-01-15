@@ -1,0 +1,5 @@
+read readme files in v2
+... need to use trading... app with just top 8 that was downloaded from GetStockDataToday
+... need to add email to buy sell signal
+... need to create a task manager to boot-up in morning, run GetSto.., trading..., email...
+... need to create a task manager to boot-down after email is sent

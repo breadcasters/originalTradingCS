@@ -1,0 +1,41 @@
+Complete 1.) Reverse the direction of the data to plot in date order (GetStockData.cs)
+Complete 2.) Get file that includes all of the NYSE ticker symbols
+Complete 3.) Get all data by reading NYSE ticker symbols and save to file
+Complete 4.) Add optimization loop to find best settings for a given stock
+5.) Add plot to show buy sell signals
+Complete 6.) run all stock files through optimizer and select top 8 stocks
+
+7.) (complete) get 12 months of stock data (3 months old),...
+	then run optimization on all stocks for 12 months,...
+	then run test run with optimum setting on all stocks for last 3 months,...
+	then calculate the error and risk to determine best opportunity
+
+---------
+8.) (complete) create a program to find/run all the top 8 settings for each stock and check on the 3 months of untrained data
+9.) (complete) create a program to select 8 from all of the stocks from the step 8 above (select in conjunction with fundamentals)
+
+
+x.) get new stock list every three months
+
+x.) use this quarters stock data to get buy / sell signal just prior to the end of each day
+     - get top 8 stock and check buy sell signal
+     - if the signal is different than the day before
+	> record date, stock picks, suggested signal, settings
+	> send new signal to email list with recommendations
+
+     - if the signal is the same as the day before 
+	> record date, stock picks, suggested signal, settings
+	> don't send mail
+
+x.) make email list
+     - add subscriber info
+     - check subscriber account
+     - if subscriber added
+	> add subscriber to list of subscribers
+     - if subscriber requests to be removed
+	> remove subscriber from list of subscribers
+
+x.) create website
+     - add subscriber link that sends email and payment verification 
+
+x.) trial run w/ real money and losses.

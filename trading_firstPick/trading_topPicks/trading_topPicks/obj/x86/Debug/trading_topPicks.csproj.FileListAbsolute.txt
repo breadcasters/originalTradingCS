@@ -1,0 +1,18 @@
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\trading_topPicks\bin\Debug\trading_topPicks.exe
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\trading_topPicks\bin\Debug\trading_topPicks.pdb
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\trading_topPicks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\trading_topPicks\obj\x86\Debug\trading_topPicks.Form1.resources
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\trading_topPicks\obj\x86\Debug\trading_topPicks.Properties.Resources.resources
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\trading_topPicks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\trading_topPicks\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\trading_topPicks\obj\x86\Debug\trading_topPicks.exe
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\trading_topPicks\obj\x86\Debug\trading_topPicks.pdb
+C:\Documents and Settings\Owner\My Documents\Trading\v1\trading_firstPick\trading_topPicks\trading_topPicks\obj\x86\Debug\trading_topPicks.exe
+C:\Documents and Settings\Owner\My Documents\Trading\v1\trading_firstPick\trading_topPicks\trading_topPicks\obj\x86\Debug\trading_topPicks.pdb
+C:\Documents and Settings\Owner\My Documents\Trading\v1\trading_firstPick\trading_topPicks\trading_topPicks\bin\Debug\trading_topPicks.exe
+C:\Documents and Settings\Owner\My Documents\Trading\v1\trading_firstPick\trading_topPicks\trading_topPicks\bin\Debug\trading_topPicks.pdb
+C:\Documents and Settings\Owner\My Documents\Trading\v1\trading_firstPick\trading_topPicks\trading_topPicks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Trading\v1\trading_firstPick\trading_topPicks\trading_topPicks\obj\x86\Debug\trading_topPicks.Form1.resources
+C:\Documents and Settings\Owner\My Documents\Trading\v1\trading_firstPick\trading_topPicks\trading_topPicks\obj\x86\Debug\trading_topPicks.Properties.Resources.resources
+C:\Documents and Settings\Owner\My Documents\Trading\v1\trading_firstPick\trading_topPicks\trading_topPicks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Owner\My Documents\Trading\v1\trading_firstPick\trading_topPicks\trading_topPicks\obj\x86\Debug\GenerateResource.write.1.tlog
